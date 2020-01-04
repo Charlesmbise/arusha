@@ -1,5 +1,5 @@
-# arusha
-hi budy
+# arusha/Tanazania
+hi buddy
 
-Here i am!!;  i like python, cisco networking, java programing.
+Hello everybody!!;  i am python developer,IT essential, cisco networking,
 and webdevelopment
